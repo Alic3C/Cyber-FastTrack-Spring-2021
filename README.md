@@ -47,3 +47,6 @@ These have been organized within chronological order:
 | Introductory | Easy | Medium | Hard | Extreme |
 |--------------|------|--------|------|---------|
 ||||||
+
+## Event Info & Code of Conduct
+TBC!
