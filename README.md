@@ -15,7 +15,7 @@ Mon 5th April - Wed 7th April
 * Hard - 500pts
 * Extreme - 1000pts
 
-# Challenge Writeups 
+## Challenge Writeups 
 These have been organized within chronological order:
 
 ### General 
