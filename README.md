@@ -1,12 +1,7 @@
 # Cyber FastTrack Spring 2021
 Mon 5th April - Wed 7th April 
 
-The CD Skids are back and playing for fun!
-
-* Easy - 100pts
-* Medium - 250pts
-* Hard - 500pts
-* Extreme - 1000pts
+> The CD Skids are back and playing for fun!
 
 ## Registration
 * Tomahawque Code `TBC`
@@ -14,16 +9,41 @@ The CD Skids are back and playing for fun!
 ## Leaderboards
 * TBC
 
-# Challenges 
+## Challenge Difficulties
+* Easy - 100pts
+* Medium - 250pts
+* Hard - 500pts
+* Extreme - 1000pts
+
+# Challenge Writeups 
 These have been organized within chronological order:
-## General 
 
-## Forensics
+### General 
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
 
-## WebApp
+### Forensics
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
 
-## Reverse Engineering
+### WebApp
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
 
-## Binary Exploitation
+### Reverse Engineering
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
 
-## Network
+### Binary Exploitation
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
+
+### Network
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
