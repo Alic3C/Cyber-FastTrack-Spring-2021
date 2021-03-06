@@ -3,6 +3,7 @@ Mon 5th April - Wed 7th April
 
 > The CD Skids are back and playing for fun!
 
+> There's no more Game to fight for, what's the point of rigging?
 ## Registration
 * Tomahawque Code `TBC`
 
