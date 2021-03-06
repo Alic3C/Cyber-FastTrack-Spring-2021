@@ -6,7 +6,7 @@ Mon 5th April - Wed 7th April
 ## Registration
 * Tomahawque Code `TBC`
 
-## Leaderboards
+## Leaderboard
 * TBC
 
 ## Challenge Difficulties
