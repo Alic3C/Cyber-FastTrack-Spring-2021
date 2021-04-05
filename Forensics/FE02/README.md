@@ -5,7 +5,7 @@
 > We're sure there's a flag at `cfta-fe02.allyourbases.co` - can you find it?
 
 ## Solution
-Using a website such as [CentralOps](https://centralops.net/co/), you can check the TXT DNS records.
+Using a website such as [CentralOps](https://centralops.net/co/), you can check the TXT DNS records:
 
 | Name | Class | Type | Data | Time To Live |
 |--------------|------|--------|------|---------|
