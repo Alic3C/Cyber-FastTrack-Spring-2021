@@ -15,35 +15,25 @@ Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 * Hard - 500pts
 * Extreme - 1000pts
 
-## Challenge Writeups 
+## Challenge Writeups
 These have been organized within chronological order:
-
-### General 
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
-
-### Forensics
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
-
-### WebApp
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
-
-### Reverse Engineering
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
 
 ### Binary Exploitation
 | Introductory | Easy | Medium | Hard | Extreme |
 |--------------|------|--------|------|---------|
 ||||||
 
-### Network
+### Crypto
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
+
+### Networking
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
+
+### Web
 | Introductory | Easy | Medium | Hard | Extreme |
 |--------------|------|--------|------|---------|
 ||||||
