@@ -1,14 +1,13 @@
 # Cyber FastTrack Spring 2021
-Mon 5th April - Wed 7th April 
+Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 
 > The CD Skids are back and playing for fun!
 
-> There's no more Game to fight for, what's the point of rigging?
 ## Registration
-* Tomahawque Code `TBC`
+* Register on [Cyber FastTrack's website](https://cyber-fasttrack.org/) to receive an email from the Capture-the-Flag platform, SANS Tomahawque. You’ll need to register with them to be able to play if you haven't used this platform before.
 
 ## Leaderboard
-* TBC
+* [Cyber FastTrack - Spring 2021 Leaderboard](https://leaderboard.tomahawque.com/59be84c4-07c3-11eb-a736-303234643662/85fc7be248c4c75294f25cbe5e567b3e/)
 
 ## Challenge Difficulties
 * Easy - 100pts
