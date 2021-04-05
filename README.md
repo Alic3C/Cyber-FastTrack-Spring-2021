@@ -61,3 +61,6 @@ Our challenges will test your creativity, technical skills and problem-solving a
 6. Absolutely no sabotaging of other competing participants, or in any way hindering their independent progress.
 
 Good luck!
+
+## Advice from James Lyne
+Unsure if you should compete? We've got some advice from [James Lyne](https://vimeo.com/533139549/d8fdd9fd46)!
