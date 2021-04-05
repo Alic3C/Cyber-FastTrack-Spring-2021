@@ -18,12 +18,17 @@ Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 ## Challenge Writeups
 These have been organized within chronological order:
 
-### Binary Exploitation
+### Binary
 | Introductory | Easy | Medium | Hard | Extreme |
 |--------------|------|--------|------|---------|
 ||||||
 
 ### Crypto
+| Introductory | Easy | Medium | Hard | Extreme |
+|--------------|------|--------|------|---------|
+||||||
+
+### Forensics
 | Introductory | Easy | Medium | Hard | Extreme |
 |--------------|------|--------|------|---------|
 ||||||
