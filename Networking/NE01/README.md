@@ -28,6 +28,17 @@ nc cfta-ne01.allyourbases.co 1061
 ID: ne01
 Flag: Nmap_0f_the_W0rld!
 ```
+## Alternative Solve
 
+If you have some free time on your hands, you can use bash to code a script that automates netcat for you(be warned it takes 25 seconds a port)
+```bash
+#!/bin/bash
+x=1
+while [ $x -le 65536 ]
+do
+  nc cfta-ne01.allyourbases.co $x 
+  x=$(( $x + 1 ))
+done
+```
 ## Flag
 Flag: `Nmap_0f_the_W0rld!`
