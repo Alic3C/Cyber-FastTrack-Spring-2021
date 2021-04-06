@@ -1,3 +1,6 @@
+![FastTrack Logo](logo.jpg)
+
+
 # Cyber FastTrack Spring 2021
 Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 
@@ -19,29 +22,39 @@ Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 These have been organized within chronological order:
 
 ### Binary
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
+| Easy | Medium | Hard | Extreme |
+|------|--------|------|---------|
+|[BE01](Binary%20Exploitation/BE01)|[BM01](Binary%20Exploitation/BM01)|[BH01](Binary%20Exploitation/BH01)|[BX01](Binary%20Exploitation/BX01)|
+|[BE02](Binary%20Exploitation/BE02)|[BM02](Binary%20Exploitation/BM02)||[BX02](Binary%20Exploitation/BX02)|
+||[BM03](Binary%20Exploitation/BM02)|||
 
 ### Crypto
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
+| Medium | Hard | Extreme |
+|--------|------|---------|
+|[CM01](Crypto/CM01)|[CH01](Crypto/CH01)|[CX01](Crypto/CX01)|
+|[CM02](Crypto/CM02)|[CH02](Crypto/CH02)||
 
 ### Forensics
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
+| Easy | Medium | Hard |
+|------|--------|------|
+|[FE01](Forensics/FE01)|[FM01](Forensics/FM01)|[FH01](Forensics/FH01)|
+|[FE02](Forensics/FE02)|[FM02](Forensics/FM02)||
+|[FE03](Forensics/FE03)|[FM03](Forensics/FM03)||
+|[FE04](Forensics/FE04)|||
 
 ### Networking
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
+| Easy | Medium |
+|------|--------|
+|[NE01](Network/NE01)|[NM01](Network/NM01)|
 
 ### Web
-| Introductory | Easy | Medium | Hard | Extreme |
-|--------------|------|--------|------|---------|
-||||||
+| Easy | Medium | Hard | Extreme |
+|------|--------|------|---------|
+|[WE01](WebApp/WE01)|[WM01](WebApp/WM01)|[WE01](WebApp/WH01)|[WE01](WebApp/WX01)|
+|[WE02](WebApp/WE02)|[WM02](WebApp/WM02)|[WE01](WebApp/WH02)||
+||[WM01](WebApp/WM03)|||
+||[WM01](WebApp/WM04)|||
+||[WM01](WebApp/WM05)|||
 
 ## Event Info & Code of Conduct
 ### Welcome to the Cyber FastTrack Capture the Flag (CTF).
@@ -60,4 +73,4 @@ Good luck!
 ## Advice from James Lyne
 Unsure if you should compete? We've got some advice from [James Lyne](https://vimeo.com/533139549/d8fdd9fd46)!
 
-![](comp-full-width.svg)
+![Tomahawque Footer](footer.svg)
