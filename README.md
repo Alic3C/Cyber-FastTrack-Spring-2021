@@ -24,9 +24,9 @@ These have been organized within chronological order:
 ### Binary
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
-|[BE01](Binary%20Exploitation/BE01)|[BM01](Binary%20Exploitation/BM01)|[BH01](Binary%20Exploitation/BH01)|[BX01](Binary%20Exploitation/BX01)|
-|[BE02](Binary%20Exploitation/BE02)|[BM02](Binary%20Exploitation/BM02)||[BX02](Binary%20Exploitation/BX02)|
-||[BM03](Binary%20Exploitation/BM02)|||
+|[BE01](Binary/BE01)|[BM01](Binary/BM01)|[BH01](Binary/BH01)|[BX01](Binary/BX01)|
+|[BE02](Binary/BE02)|[BM02](Binary/BM02)||[BX02](Binary/BX02)|
+||[BM03](Binary/BM02)|||
 
 ### Crypto
 | Medium | Hard | Extreme |
@@ -45,16 +45,16 @@ These have been organized within chronological order:
 ### Networking
 | Easy | Medium |
 |------|--------|
-|[NE01](Network/NE01)|[NM01](Network/NM01)|
+|[NE01](Networking/NE01)|[NM01](Networking/NM01)|
 
 ### Web
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
-|[WE01](WebApp/WE01)|[WM01](WebApp/WM01)|[WE01](WebApp/WH01)|[WE01](WebApp/WX01)|
-|[WE02](WebApp/WE02)|[WM02](WebApp/WM02)|[WE01](WebApp/WH02)||
-||[WM01](WebApp/WM03)|||
-||[WM01](WebApp/WM04)|||
-||[WM01](WebApp/WM05)|||
+|[WE01](Web/WE01)|[WM01](Web/WM01)|[WE01](Web/WH01)|[WE01](Web/WX01)|
+|[WE02](Web/WE02)|[WM02](Web/WM02)|[WE01](Web/WH02)||
+||[WM01](Web/WM03)|||
+||[WM01](Web/WM04)|||
+||[WM01](Web/WM05)|||
 
 ## Event Info & Code of Conduct
 ### Welcome to the Cyber FastTrack Capture the Flag (CTF).
