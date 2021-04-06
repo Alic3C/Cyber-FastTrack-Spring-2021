@@ -18,5 +18,10 @@ If we visit [/4ext6b6.html](https://cfta-we02.allyourbases.co/4ext6b6.html), we 
 
 ![Flag: Shhh_robot_you_said_too_much!](4ext6b6.PNG)
 
+## James Lyne's Spoiler Video
+A day into the competition, a spoiler video was emailed out to all competitors:
+
+> To help you make a start, watch Cyber FastTrack creator, James Lyne, [talk you through one of the first challenges - WE02](https://vimeo.com/533467285/d508b2bf61).
+
 ## Flag
 Flag: `Shhh_robot_you_said_too_much!`
