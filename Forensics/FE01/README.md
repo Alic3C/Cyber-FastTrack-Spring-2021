@@ -320,9 +320,24 @@ Archive:  1_flag.zip
 
 Looking at the email sent with this file we get the clue `Here it is.  The p/w is the same one I gave to you in the office when we arranged Fridays meeting.  You still have that right?`.
 
-So, the password was discussed in the office between Chris Kellogg and Steven Hark.
+So, the password was discussed in the office between Chris Kellogg and Steven Hark. However we can find Steven emailed it to himself using an online PST viewer such as [GoldFynch](https://goldfynch.com/pst-viewer/index.html):
 
+![GoldFynch](GoldFynch.png)
 
+`Meeting with Chris` contains the information `c]5p@S7K/z}Z!Q`, which happens to be the `1_flag.zip` password:
+
+```console
+CDSkids@kali:~/Desktop/fe01.ost.export/Root - Mailbox/IPM_SUBTREE/Inbox/Message00018/Attachments$ unzip 1_flag.zip
+Archive:  1_flag.zip
+[1_flag.zip] flag.jpg password:
+  inflating: flag.jpg            
+```
+
+`flag.jpg` is the following:
+
+![Flag](flag.jpg)
+
+Effectively I overcomplicated the challenge a lot more than intended! 
 
 ## Flag
-Flag: ` `
+Flag: `pst_i'm_in_here!`
