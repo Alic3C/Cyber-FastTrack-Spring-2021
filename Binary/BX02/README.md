@@ -28,7 +28,7 @@ from pwn import *
 
 conn = remote("cfta-bx02.allyourbases.co", 8013)
 
-conn.sendline(("#" + "2"*147 + "#")*20)
+conn.sendline(("#" + "1"*147 + "#")*20)
 print(conn.recvall())
 ```
 
