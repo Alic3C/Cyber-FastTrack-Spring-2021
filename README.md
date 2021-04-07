@@ -8,6 +8,7 @@ Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 
 This CTF was run for both [Cyber FastTrack](https://cyber-fasttrack.org/) and [National Cyber Scholarship](https://www.nationalcyberscholarship.org/) at the same time. Although these writeups were primarily made for Cyber FastTrack, they should also be valid for the National Cyber Scholarship competition.
 
+> Want to play more and steal all of our flags? Join the **National Cyber Scholarship Competition - Practice Arena** with [Tomahawque event code](https://www.tomahawque.com/join-event) `frail-tub`, open until May 31, 2021.
 
 ## Registration
 * Register on [Cyber FastTrack's website](https://cyber-fasttrack.org/) to receive an email from the Capture-the-Flag platform, SANS Tomahawque. You’ll need to register with them to be able to play if you haven't used this platform before.
