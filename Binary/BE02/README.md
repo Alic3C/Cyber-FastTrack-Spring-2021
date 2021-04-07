@@ -4,6 +4,11 @@
 ## Briefing
 > Download the file and find a way to get the flag.
 
+## BE02 Hint
+During the competition, the following hint was emailed out:
+
+![](BE02Hint.png)
+
 ## Solution
 The provided file can be found [here](be02.zip).
 
