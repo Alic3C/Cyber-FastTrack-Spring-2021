@@ -33,7 +33,7 @@ These have been organized within chronological order:
 | Medium | Hard | Extreme |
 |--------|------|---------|
 |[CM01](Crypto/CM01)|~~[CH01](Crypto/CH01)~~|~~[CX01](Crypto/CX01)~~|
-|~~[CM02](Crypto/CM02)~~|~~[CH02](Crypto/CH02)~~||
+|[CM02](Crypto/CM02)|~~[CH02](Crypto/CH02)~~||
 
 ### Forensics
 | Easy | Medium | Hard |
