@@ -5,6 +5,7 @@
 > View the page at https://cfta-wm01.allyourbases.co and try to get the flag.
 
 ## Solution
+
 Ok so starting off, we notice this comment in the `/assets/js/site.js` file:   
 `// Image slideshow. Moved in from /new-images when each is finalised`   
 
