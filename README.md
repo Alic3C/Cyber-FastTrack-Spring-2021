@@ -43,9 +43,9 @@ These have been organized in order they appear on the site:
 ### Forensics
 | Easy | Medium | Hard |
 |------|--------|------|
-|[FE01](Forensics/FE01)|[FM01](Forensics/FM01)|~~[FH01](Forensics/FH01)~~|
+|[FE01](Forensics/FE01)|[FM01](Forensics/FM01)|[FH01](Forensics/FH01)|
 |[FE02](Forensics/FE02)|[FM02](Forensics/FM02)||
-|[FE03](Forensics/FE03)|~~[FM03](Forensics/FM03)~~||
+|[FE03](Forensics/FE03)|[FM03](Forensics/FM03)||
 |[FE04](Forensics/FE04)|||
 
 ### Networking
@@ -56,7 +56,7 @@ These have been organized in order they appear on the site:
 ### Web
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
-|[WE01](Web/WE01)|~~[WM01](Web/WM01)~~|~~[WH01](Web/WH01)~~|[WX01](Web/WX01)|
+|[WE01](Web/WE01)|[WM01](Web/WM01)|[WH01](Web/WH01)|[WX01](Web/WX01)|
 |[WE02](Web/WE02)|[WM02](Web/WM02)|[WH02](Web/WH02)||
 ||[WM03](Web/WM03)|||
 ||[WM04](Web/WM04)|||
@@ -94,7 +94,7 @@ Thanks to all the contributors who have solved challenges and submitted writeups
 * [Rachelle Hu - WM03](https://github.com/jollypolly123)
 * [Eth007 - BX02](https://github.com/Eth007)
 * [Vishnuu Gopi (VGTheOne)](https://github.com/vgopi1)
-
+* [Sentinent](https://github.com/Sentinent)
 And of course:
 * [James Lyne](https://github.com/jameslyne)
 * [The 5.6 Video Account](https://twitter.com/WaitingVideo)
