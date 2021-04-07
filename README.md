@@ -61,6 +61,8 @@ These have been organized within chronological order:
 ||[WM04](Web/WM04)|||
 ||[WM05](Web/WM05)|||
 
+Please feel free to submit a PR to add a writeup that we don't have.
+
 ## Event Info & Code of Conduct
 ### Welcome to the Cyber FastTrack Capture the Flag (CTF).
 Our challenges will test your creativity, technical skills and problem-solving ability. Identify your strengths and weaknesses as you analyze forensic data, break into vulnerable websites, and solve challenges built by industry experts!
@@ -79,8 +81,19 @@ Good luck!
 Unsure if you should compete? We've got some advice from [James Lyne](https://vimeo.com/533139549/d8fdd9fd46)!
 
 ## Contributors
-Thanks to all the contributors who have submitted writeups to this repository:
+Thanks to all the contributors who have solved challenges and submitted writeups to this repository:
 * [Josh Heng](https://github.com/JoshHeng/)
-* [404dcdcc](https://github.com/404dcd/)
+* [404dcd](https://github.com/404dcd/)
+* [Bottersnike](https://github.com/Bottersnike/)
+* [Isaiah](https://github.com/RealJammy)
+* [Alice](https://github.com/Alic3C)
+* [Das](https://github.com/das-12)
+
+
+And of course,
+* [James Lyne](https://github.com/jameslyne)
+* [The 5.6 Video Account](https://twitter.com/WaitingVideo)
+* [Sponsored by RACTF](https://www.ractf.co.uk/)
+* [Sponsored by Beano Industries](https://beano.dev/carers)
 
 ![Tomahawque Footer](footer.svg)
