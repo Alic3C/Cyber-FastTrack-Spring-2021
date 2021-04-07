@@ -4,6 +4,11 @@
 ## Briefing
 > View the page at https://cfta-we01.allyourbases.co and try to get the flag.
 
+## WE01 Hint
+During the competition, the following hint was emailed out:
+
+![](WE01Hint.png)
+
 ## Solution
 Visiting the site we are presented with the following string:
 
