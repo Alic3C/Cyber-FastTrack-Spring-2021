@@ -37,7 +37,7 @@ These have been organized in order they appear on the site:
 ### Crypto
 | Medium | Hard | Extreme |
 |--------|------|---------|
-|[CM01](Crypto/CM01)|~~[CH01](Crypto/CH01)~~|[CX01](Crypto/CX01)|
+|[CM01](Crypto/CM01)|[CH01](Crypto/CH01)|[CX01](Crypto/CX01)|
 |[CM02](Crypto/CM02)|[CH02](Crypto/CH02)||
 
 ### Forensics
@@ -90,7 +90,7 @@ Thanks to all the contributors who have solved challenges and submitted writeups
 * [Alice](https://github.com/Alic3C)
 * [Das](https://github.com/das-12)
 * [Emily Chen](https://github.com/emsesc)
-* [Coderk 1250 - NM01](https://github.com/coderk1250)
+* [Coderk 1250 - NM01, CH01](https://github.com/coderk1250)
 * [Rachelle Hu - WM03](https://github.com/jollypolly123)
 * [Eth007 - BX02](https://github.com/Eth007)
 
