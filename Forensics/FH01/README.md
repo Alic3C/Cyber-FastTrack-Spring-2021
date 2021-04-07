@@ -45,5 +45,5 @@ Thus, we need to process the extracted data a bit more. We can use a simple pyth
 The flag is in the zip file (5.bin) in the form of an image.
 
 ## Flag
-Flag: `C4ch1ng_H0n3y_p0Ts_w1TH_a_Sh4rk!`
+Flag: `C4tch1ng_H0n3y_p0Ts_w1TH_a_Sh4rk!`
 ![Flag](flag.jpg)
