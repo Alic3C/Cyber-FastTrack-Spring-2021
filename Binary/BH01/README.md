@@ -8,7 +8,7 @@
 The provided file can be found [here](bh01.zip).
 Running the binary asks for a magic word, at which point we can provide some input. After we press enter, the binary prints garbage and then asks if we understood it.
 I played about with different inputs, and eventually found:
-```
+```console
 ➜ ~ $ ./program
 What is the magic word?
 hhhhhhhhhhhhh
@@ -55,7 +55,7 @@ At this point, I realised why I was getting different behaviour when I put 16 or
 
 So. I need to make that while loop run as long as possible, and I need to provide enough bytes of input so that any random index it could pick would still hit the byte of input that I provided (and not \x00, if I had not provided that much input). The input buffer is 40 long, so I wrote a quick python oneliner to generate the payload for me.
 
-```
+```console
 ➜ ~ $ python -c "print('h'*40)" | ./program
 What is the magic word?
 Flag: aLittLeO*���E
@@ -64,7 +64,7 @@ Did you understand that?
 ```
 Sure enough, the result each time of running that is the same and no longer affected by the time-seeded-random aspect. As I tried `i`, then `j`, as expected I got one more character of flag output at a time. I kept working my way down the ASCII table, until eventually:
 
-```
+```console
 ➜ ~ $ python -c "print('~'*40)" | ./program
 What is the magic word?
 Flag: aLittLeObfuScatIonalCharActEr
