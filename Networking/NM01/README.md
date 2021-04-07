@@ -29,15 +29,14 @@ Since we need to manipulate the data and send it back to the server in the same 
 ```python
 import socket
 
-HOST = "cfta-nm01.allyourbases.co"
+HOST = "cfta-nm01.allyourbases.co" # you could also use the IP address ("52.210.101.44") instead of the hostname
 PORT = 8017
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s: # AF_INET signifies an INET (IPv4) socket and SOCK_STREAM is for TCP ports
 	s.connect((HOST, PORT)) # connect to the given host and port
 	hex = s.recv(1024) # retrieve the \x delimited hex data that should look something like this: b'\\x48\\x51\\x57\\x54\\x53\\x45\\x41\n'
-	ascii = hex.decode("unicode-escape") # decode the data into ASCII: HQWTSEA
+	ascii = hex.decode("unicode-escape") + "\n" # decode the data into ASCII: HQWTSEA
 	s.send(ascii.encode()) # we must send back the ASCII input as encoded bytes, not a string
-	s.send("\n".encode())
 	flag = s.recv(1024)
 	print(flag.decode()) # yay!
 ```
