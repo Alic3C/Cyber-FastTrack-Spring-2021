@@ -90,11 +90,12 @@ Thanks to all the contributors who have solved challenges and submitted writeups
 * [Alice](https://github.com/Alic3C)
 * [Das](https://github.com/das-12)
 * [Emily Chen](https://github.com/emsesc)
-* [Coderk 1250 - NM01, CH01](https://github.com/coderk1250)
-* [Rachelle Hu - WM03](https://github.com/jollypolly123)
-* [Eth007 - BX02](https://github.com/Eth007)
+* [Coderk 1250](https://github.com/coderk1250)
+* [Rachelle Hu](https://github.com/jollypolly123)
+* [Eth007](https://github.com/Eth007)
 * [Vishnuu Gopi (VGTheOne)](https://github.com/vgopi1)
 * [Sentinent](https://github.com/Sentinent)
+
 And of course:
 * [James Lyne](https://github.com/jameslyne)
 * [The 5.6 Video Account](https://twitter.com/WaitingVideo)
