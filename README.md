@@ -78,4 +78,8 @@ Good luck!
 ## Advice from James Lyne
 Unsure if you should compete? We've got some advice from [James Lyne](https://vimeo.com/533139549/d8fdd9fd46)!
 
+## Contributors
+Thanks to all the contributors who have submitted writeups to this repository:
+* (Josh Heng)[https://github.com/JoshHeng/]
+
 ![Tomahawque Footer](footer.svg)
