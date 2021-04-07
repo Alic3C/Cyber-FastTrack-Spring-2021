@@ -11,6 +11,7 @@ Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 
 ## Leaderboard
 * [Cyber FastTrack - Spring 2021 Leaderboard](https://leaderboard.tomahawque.com/59be84c4-07c3-11eb-a736-303234643662/85fc7be248c4c75294f25cbe5e567b3e/)
+* [National Cyber Scholarship Competition - Spring 2021 Leaderboard](https://leaderboard.tomahawque.com/943e22be-870a-11eb-8e55-636337383761/359e5c0b1998ff3e19014cb3b9239f64/)
 
 ## Challenge Difficulties
 * Easy - 100pts
