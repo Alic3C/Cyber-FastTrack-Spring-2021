@@ -89,10 +89,11 @@ Thanks to all the contributors who have solved challenges and submitted writeups
 * [Isaiah](https://github.com/RealJammy)
 * [Alice](https://github.com/Alic3C)
 * [Das](https://github.com/das-12)
+* [Emily Chen](https://github.com/emsesc)
+
 * [Coderk 1250 - NM01](https://github.com/coderk1250)
 * [Rachelle Hu - WM03](https://github.com/jollypolly123)
 * [Eth007 - BX02](https://github.com/Eth007)
-* [Emily Chen - CH02](https://github.com/emsesc)
 
 
 And of course:
