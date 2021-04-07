@@ -62,8 +62,6 @@ These have been organized in order they appear on the site:
 ||[WM04](Web/WM04)|||
 ||[WM05](Web/WM05)|||
 
-Please feel free to submit a PR to add a writeup that we don't have.
-
 ## Event Info & Code of Conduct
 ### Welcome to the Cyber FastTrack Capture the Flag (CTF).
 Our challenges will test your creativity, technical skills and problem-solving ability. Identify your strengths and weaknesses as you analyze forensic data, break into vulnerable websites, and solve challenges built by industry experts!
