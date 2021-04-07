@@ -90,7 +90,7 @@ Thanks to all the contributors who have solved challenges and submitted writeups
 * [Das](https://github.com/das-12)
 
 
-And of course,
+And of course:
 * [James Lyne](https://github.com/jameslyne)
 * [The 5.6 Video Account](https://twitter.com/WaitingVideo)
 * [Sponsored by RACTF](https://www.ractf.co.uk/)
