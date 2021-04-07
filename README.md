@@ -56,7 +56,7 @@ These have been organized within chronological order:
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
 |[WE01](Web/WE01)|~~[WM01](Web/WM01)~~|~~[WH01](Web/WH01)~~|[WX01](Web/WX01)|
-|[WE02](Web/WE02)|~~[WM02](Web/WM02)~~|[WH02](Web/WH02)||
+|[WE02](Web/WE02)|[WM02](Web/WM02)|[WH02](Web/WH02)||
 ||~~[WM03](Web/WM03)~~|||
 ||~~[WM04](Web/WM04)~~|||
 ||[WM05](Web/WM05)|||
