@@ -93,7 +93,7 @@ Thanks to all the contributors who have solved challenges and submitted writeups
 * [Coderk 1250 - NM01, CH01](https://github.com/coderk1250)
 * [Rachelle Hu - WM03](https://github.com/jollypolly123)
 * [Eth007 - BX02](https://github.com/Eth007)
-
+* [Vishnuu Gopi (VGTheOne)](https://github.com/vgopi1)
 
 And of course:
 * [James Lyne](https://github.com/jameslyne)
