@@ -81,5 +81,6 @@ Unsure if you should compete? We've got some advice from [James Lyne](https://vi
 ## Contributors
 Thanks to all the contributors who have submitted writeups to this repository:
 * [Josh Heng](https://github.com/JoshHeng/)
+* [404dcdcc](https://github.com/404dcd/)
 
 ![Tomahawque Footer](footer.svg)
