@@ -6,7 +6,7 @@
 
 ## Solution
 Going to the source page, we can see that the logic for the login is as below:
-```
+```html
 <!--
         TODO: remove, taken from OSS project, login contains:
         return function ($event) {
@@ -26,7 +26,7 @@ Going to the source page, we can see that the logic for the login is as below:
 We can exploit the comparison ```==```. Essentially, we can find another hash starting with `0e` that will return true if compared using the ```==``` operator to the given hash. There is more information about this here: https://www.whitehatsec.com/blog/magic-hashes/.
 
 Looking at the above logic, we can see that we need a password that when hashed using MD5 and the given salt, returns a hash that begins with `0e` and is 32 digits long, including the `0e`. Hashes cannot be reversed, so we can instead write a python script that will test hashes until we get the correct one (it takes a while so you might want to run it in the background):
-```
+```python
 import hashlib
 
 salt = "e361bfc569ba48dc"
