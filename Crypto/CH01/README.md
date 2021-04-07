@@ -38,9 +38,8 @@ RSA Public Key [48:19:4c:30:74:2e:ff:71:03:2f:b3:66:22:ac:c7:b8:90:fe:0c:95]
 Notice anything? The two modulus values are the same for both public keys! That means this encrypted message is vulnerable to a [Common Modulus Attack](https://thescipub.com/pdf/jcssp.2006.665.671.pdf). To use this, we need the common modulus `n`, an `e1` value for the first ciphertext, the cipher `c1`, `e2`, and the second cipher `c2`. These all must be in decimal.
 
 So, we need to convert the ciphertexts (`.enc` files) into decimal form (currently encoded in base 64 - the `=` at the end is a pretty clear giveaway). We can run the following command in the terminal:
-```Parrot
-┌─[blueberries@parrot]─[~/NCS/ch01]
-└──╼ $cat m1.enc | tr -d '\n' | base64 -d | xxd -p | tr -d '\n' | python -c "for line in __import__('sys').stdin: print(int(line, 16))"
+```console
+blueberries@parrot:~/NCS/ch01$ cat m1.enc | tr -d '\n' | base64 -d | xxd -p | tr -d '\n' | python -c "for line in __import__('sys').stdin: print(int(line, 16))"
 21309803042637511615406342604933393537655925140785513083274322583558182079041118765482939986628901169787272691086561237113288586368420325065436357775257935802831043663673837252070041351749169522998611163218888265038945207598427746990103441950180533601623498698545622327439440344796439341725541470559089916313370842110684712058343303527166791927762271018509679749352510508159522961683738897850333323303362813548703908301525247827743141771601986863380717353344825838293763129970208393090005209923927877453665029197529883591618222619423895467206313580495805992208572894659166150171412562825445087384520240206729335170516
 ```
 Let's break this up:
