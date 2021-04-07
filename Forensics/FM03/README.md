@@ -14,7 +14,7 @@ The provided file can be found [here](fm03.zip).
 
 This disk is a VeraCrypt encrypted volume, protected with a password. Bruteforce the password using Hashcat and the rockyou word list, to get the phrase "redwings". 
 
-`sudo hashcat jwt.txt -m 16500 -a 3 -w 2 /usr/share/wordlists/rockyou.txt --force`
+`sudo hashcat -a 0 -m 13722 dirvolume /usr/share/wordlists/rockyou.txt --force`
 
 And the output you get:
 
