@@ -24,7 +24,7 @@ These have been organized within chronological order:
 ### Binary
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
-|[BE01](Binary/BE01)|[BM01](Binary/BM01)|~~[BH01](Binary/BH01)~~|~~[BX01](Binary/BX01)~~|
+|[BE01](Binary/BE01)|[BM01](Binary/BM01)|[BH01](Binary/BH01)|~~[BX01](Binary/BX01)~~|
 |[BE02](Binary/BE02)|~~[BM02](Binary/BM02)~~||~~[BX02](Binary/BX02)~~|
 ||~~[BM03](Binary/BM02)~~|||
 
