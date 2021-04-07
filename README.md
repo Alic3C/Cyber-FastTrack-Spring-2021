@@ -24,7 +24,7 @@ This CTF was run for both [Cyber FastTrack](https://cyber-fasttrack.org/) and [N
 * Extreme - 1000pts
 
 ## Challenge Writeups
-These have been organized within chronological order:
+These have been organized in order they appear on the site:
 
 ### Binary
 | Easy | Medium | Hard | Extreme |
