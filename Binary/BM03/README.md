@@ -40,7 +40,7 @@ This output function contains a condition, near the end, as follows:
 That figures. The main function is only telling it to print 2 rows, and it shows an error if that's less than 6. So, let's use gdb to call output manually with a higher number of rows.
 
 ```console
-gdb ./flag
+➜ ~ $ gdb ./flag
 (gdb) b main
 (gdb) r
 (gdb) p output(6, 0x55)
