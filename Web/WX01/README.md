@@ -82,7 +82,7 @@ We can pop a shell using the body:
 This gives us the JWT key, `aversion-chute-freeway-corporal`
 
 ### Logging In
-CyberChef can be used to sign the following payload with the `HS256` algorithm and secret key `aversion-chute-freeway-corporal`:
+[CyberChef](https://gchq.github.io/CyberChef/#recipe=JWT_Sign('aversion-chute-freeway-corporal','HS256')&input=ewogICAgInVzZXJuYW1lIjogInRpbSIsCiAgICAicm9sZSI6ICJhZG1pbiIKfQ) can be used to sign the following payload with the `HS256` algorithm and secret key `aversion-chute-freeway-corporal`:
 ```json
 {
     "username": "tim",
