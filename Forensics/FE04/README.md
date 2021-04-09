@@ -19,9 +19,18 @@ We have the criteria of:
 - contains the character `Z`
 - finishes off with `S`
 
+### Solution 1:
 You can do this in many ways, but the easiest would likely be grep + regex to filter:
 
 `grep -P '^..x[2-6].*Z.*S$' 50k-users.txt`
+<hr>
 
+### Solution 2:
+So, there's this cool command called grep, where you can search for certain expressions. I grepped the inital file for anything that met one of the first 3 requirements, and then piped it out to another file, to rinse and repeat. After satisfying the first 3 requirements, I manually removed everything left that didn't finish with `S`, leaving me with 6 strings. Finally, I had a read through the 6 to see what one was right, and submitted it as the flag, commands used below:
+```
+grep -ex2 -ex3 -ex4 -ex5 50k-users.txt > step1.txt
+grep 'Z' step1.txt > step2.txt
+grep "S" step2.txt > final.txt
+```
 ## Flag
 Flag: `YXx52hsi3ZQ5b9rS`
