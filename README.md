@@ -8,6 +8,8 @@ Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 
 This CTF was run for both [Cyber FastTrack](https://cyber-fasttrack.org/) and [National Cyber Scholarship](https://www.nationalcyberscholarship.org/) at the same time. Although these writeups were primarily made for Cyber FastTrack, they should also be valid for the National Cyber Scholarship competition.
 
+This repository is the only one to be **officially** endorsed by Cyber FastTrack staff!
+
 > Want to play more and steal all of our flags? Join the **National Cyber Scholarship Competition - Practice Arena** with [Tomahawque event code](https://www.tomahawque.com/join-event) `frail-tub`, open until May 31, 2021.
 
 ## Registration
