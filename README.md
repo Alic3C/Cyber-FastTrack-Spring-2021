@@ -1,7 +1,5 @@
 ![FastTrack Logo](logo.jpg)
 
-# IMPORTANT: Please ask for our permission before you use any templates in this repository!
-
 # Cyber FastTrack Spring 2021 / National Cyber Scholarship Competition - Spring 2021
 Mon 5th April 17:00 BST - Wed 7th April 17:00 BST
 
